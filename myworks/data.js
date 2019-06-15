@@ -1,0 +1,1 @@
+var myData={designer:{name:'罗祥作品集',phone:'176-0706-1997',tag:["#二年工作经验 "],bg:'#1e2025'},gallery:[{src:"myworks/logo1.jpg",w:821,h:703},{src:"myworks/logo6.jpg",w:2300,h:1600},{src:"myworks/logo2.jpg",w:2300,h:1600},{src:"myworks/logo4ai.jpg",w:2300,h:1600},{src:"myworks/logo5ai.jpg",w:2300,h:1600},]}
